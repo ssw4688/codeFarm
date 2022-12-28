@@ -1,2 +1,2 @@
-# codeFarm
+# JSP Project
 jsp-project
